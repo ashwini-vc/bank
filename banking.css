@@ -1,0 +1,178 @@
+*{
+    color: white;
+    background-color: black;
+}
+
+
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div3{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.div7{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cls9{
+    background-color: greenyellow;
+    width: 120px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+.div4{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.cls6{
+    background-color: greenyellow;
+    width: 60px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+.div5{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.div12{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div14{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.cls10{
+    background-color: greenyellow;
+    width: 120px;
+    height: 25px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.cls11{
+    background-color: greenyellow;
+    width: 120px;
+    height: 25px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.div15{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cls12{
+    margin-left: 85px;
+}
+
+.div25{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div22{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cls14{
+    color: greenyellow;
+}
+
+.div34{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cls15{
+    margin-top: 25px;
+}
+
+.div35{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div37{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cls40{
+    color: greenyellow;
+}
+
+.div45{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div46{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div48{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.cls41{
+    color: greenyellow;
+    margin-left: 70px;
+}
+
+.div49{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.cls42{
+    margin-left: 75px;
+}
+
+ .div52{
+    display: flex;
+    justify-content: space-between;
+ } 
+
+ .div53{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 530px;
+    margin-right: 530px;
+ }
+
+ .div54{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 480px;
+    margin-right: 530px;
+    gap: 10px;
+ }
+
+ .div55{
+    display: flex;
+    justify-content: space-between;
+ }
