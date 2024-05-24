@@ -1,8 +1,14 @@
 *{
     color: white;
     background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+.hamb{
+    display: none;
+ }
 
 .div2{
     display: flex;
@@ -100,6 +106,7 @@
 
 .div34{
     display: flex;
+    /* gap: 50px; */
     justify-content: space-between;
 }
 
@@ -109,17 +116,21 @@
 
 .div35{
     display: flex;
-    justify-content: space-between;
+    gap: 50px;
+    /* justify-content: space-between; */
 }
 
 .div37{
     display: flex;
-    justify-content: space-between;
+    gap: 60px;
+    /* justify-content: space-between; */
 }
 
 .cls40{
     color: greenyellow;
 }
+
+
 
 .div45{
     display: flex;
@@ -160,14 +171,14 @@
  .div53{
     display: flex;
     justify-content: space-between;
-    margin-left: 530px;
+    margin-left: 500px;
     margin-right: 530px;
  }
 
  .div54{
     display: flex;
     justify-content: space-between;
-    margin-left: 480px;
+    margin-left: 400px;
     margin-right: 530px;
     gap: 10px;
  }
@@ -176,3 +187,88 @@
     display: flex;
     justify-content: space-between;
  }
+
+ /* @media only screen and (min-width:320px){
+
+ .div7{
+    display: flex;
+    flex-direction: column;
+ }
+    
+.div10{
+    display: flex;
+    flex-direction: column;
+}
+
+.div12{
+    display: flex;
+    flex-direction: column;
+}
+
+.div15{
+    display: flex;
+    flex-direction: column;
+}
+
+.div19{
+    display: flex;
+    flex-direction: column;
+}
+
+.div22{
+    display: flex;
+    flex-direction: column;
+}
+
+.div30{
+    display: flex;
+    flex-direction: column;
+}
+
+.div36{
+    display: flex;
+    flex-direction: column;
+}
+
+.div35{
+    display: flex;
+    flex-direction: column;
+}
+
+.div43{
+    display: flex;
+    flex-direction: column;
+}
+
+.div45{
+    display: flex;
+    flex-direction: column;
+}
+
+.div51{
+    display: flex;
+    flex-direction: column;
+}
+
+ } */
+
+ 
+ @media only screen and (min-width:320px){
+
+  .div7{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .div12{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .div15{
+    display: flex;
+    flex-direction: row;
+  }
+
+  
+}

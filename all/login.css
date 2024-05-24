@@ -1,0 +1,103 @@
+*{
+    color: white;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div3{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.div4{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.cls6{
+    background-color: greenyellow;
+    width: 60px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+.div5{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.cls7{
+    color: greenyellow;
+    text-align: center;
+    /* margin-left: 550px; */
+}
+
+.cls9{
+    text-align: center;
+    /* margin-left: 430px; */
+}
+
+.cls8{
+    margin-right: 500px;
+    margin-top: 10px;
+}
+
+.scls{
+    display: flex;
+    gap: 20px;
+}
+
+.mpwd{
+   margin-left: 550px;
+}
+
+.labpwd{
+    display: flex;
+}
+
+.button{
+    display: flex;
+    margin-top: 20px;
+    background-color: greenyellow;
+    color: black;
+    width: 300px;
+    height: 30px;
+    margin-left: 460px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.fpwd{
+    justify-content: center;
+    text-decoration: underline;
+    margin-top: 25px;
+}
+
+.signup{
+    display: flex;
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+    margin-left: 460px;
+    border-radius: 15px;
+}
+  
+.pdiv{
+    text-align: center;
+}
+
+.icons{
+    text-align: center;
+    margin-top: 20px;
+}
+
